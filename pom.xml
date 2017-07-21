@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.csy.gen</groupId>
-	<artifactId>code_generator</artifactId>
+	<artifactId>code-generator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>code_generator</name>
+	<name>code-generator</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
